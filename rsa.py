@@ -1,8 +1,5 @@
 
-### Version 2. Learning how to make new branch. and a new change.
-
-#I am on newbranch
-# does this work?
+# This is the Master Branch
 
 def calcGcd(num1, num2):
     while (num1 != num2):
